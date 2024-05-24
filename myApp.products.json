@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "664f9e88d66d80a48e0f0c7a"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "The Daintree Rainforest, in Queensland, Australia, is a UNESCO World Heritage site, famed for its biodiversity. It shelters ancient ecosystems, including rare plants and animals. As the planet's oldest tropical rainforest, it's a vital ecological treasure and a haven for nature enthusiasts.",
+  "travelPlace": "Daintree",
+  "image": "1716497239258-4086413-Daintree rainforest.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T19:52:40.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:47:19.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664f9f96d66d80a48e0f0c80"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Cinque Terre, situated on the Italian coast, comprises five picturesque villages: Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore.Known for their colorful houses and terraced vineyards, Characterized by colorful buildings clinging to cliffs, it's renowned for its scenic beauty, hiking trails, and Mediterranean charm.",
+  "travelPlace": "Cinque terre",
+  "image": "1716497257022-189825962-cinque terre.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T19:57:10.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:47:37.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fa32cd66d80a48e0f0c8e"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Cappadocia, Turkey, is a surreal landscape characterized by its fairy-tale-like rock formations, known as fairy chimneys, and ancient cave dwellings. Visitors are enchanted by hot air balloon rides over the otherworldly terrain, where they can witness the breathtaking sunrise or sunset. ",
+  "travelPlace": "Cappadocia",
+  "image": "1716497289602-423814817-cappadocia.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T20:12:28.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:48:09.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fa44cd66d80a48e0f0c9c"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "The Black Forest, located in southwestern Germany, is a picturesque region famous for its dense forests and charming villages. It's named for the dark, thick canopy of evergreen trees that covers much of the landscape. The area is dotted with scenic hiking and traditional cuckoo clock shops.  ",
+  "travelPlace": "Black forest",
+  "image": "1716497314055-221222090-Black forest.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T20:17:16.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:48:34.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fa590d66d80a48e0f0ca2"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Hawaii, an enchanting archipelago in the Pacific, captivates with its diverse landscapes, from pristine beaches to volcanic craters. Each island boasts its own unique charm, inviting exploration of  majestic waterfalls, and vibrant coral reefs. Hawaii an unforgettable destination for adventurers and relaxation-seekers alike",
+  "travelPlace": "Hawaii",
+  "image": "1716497334620-422774699-hawaii.webp",
+  "createdAt": {
+    "$date": "2024-05-23T20:22:40.677Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:48:54.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fa690d66d80a48e0f0ca8"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Kyoto, Japan, steeped in tradition and history, is a city of serene temples, lush gardens, and elegant tea houses. Visitors can wander through historic districts like Gion, encountering geishas in their traditional attire, or explore the iconic Fushimi Inari Shrine's thousands of vermillion torii gates. ",
+  "travelPlace": "Kyoto",
+  "image": "1716497357163-156519352-Kyoto.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T20:26:56.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:49:17.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fa7c4d66d80a48e0f0cae"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Praslin Island in the Seychelles is a tropical paradise known for its stunning beaches, lush forests, and unique wildlife. Home to the iconic Vallée de Mai, it's a UNESCO World Heritage site where the legendary Coco de Mer palm grows. ",
+  "travelPlace": "Praslin seychelles",
+  "image": "1716497384062-713087433-praslin_turtle.jpeg",
+  "createdAt": {
+    "$date": "2024-05-23T20:32:04.259Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:49:44.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664fa88ed66d80a48e0f0cb0"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Mount Cook, the crown jewel of the Southern Alps in New Zealand, boasts towering peaks and shimmering glaciers that attract adventurers and nature lovers alike.  Visitors can marvel at the Hooker Valley's turquoise waters..",
+  "travelPlace": "Mount cook",
+  "image": "1716497411134-636262922-Mount Cook new zealand.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T20:35:26.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:54:35.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664faa4c2e84461094f4f712"
+  },
+  "travelTitle": "PLACE NAME",
+  "travelText": "Bora Bora, a paradise in French Polynesia, boasts azure lagoons, palm-fringed beaches, and luxurious overwater bungalows. Visitors can snorkel amidst colorful coral reefs, bask in the sun on pristine sands, or embark on a romantic sunset cruise over the Pacific Ocean. ",
+  "travelPlace": "Bora Bora, French Polynesia",
+  "image": "1716496972198-646180379-Bora Bora french polynesia.jpg",
+  "createdAt": {
+    "$date": "2024-05-23T20:42:52.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-23T20:42:52.222Z"
+  },
+  "__v": 0
+}]
